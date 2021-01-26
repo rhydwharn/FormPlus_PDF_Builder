@@ -1,5 +1,9 @@
 # FormPlus_PDF_Builder
-This is an interview question solution
+This is an interview question solution.
+
+The automation is powered by Selenium using Java programming language. The test can be run via MAC OS or Windows OS.
+
+The resource files for Chrome on both OS versions has been added as part of the package.
 
 The Fillable function on the PDF is totally not working, the implementation done is not how PDF fillable file works. 
 
